@@ -1,3 +1,4 @@
+#! usr/bin/env python3
 import base64 
 
 code = input("Enter string to covert to base64: ")
