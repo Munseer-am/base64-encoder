@@ -2,4 +2,4 @@
 
 simple python script to convert string into base64
 
-> Note: 
+> Note: base64
