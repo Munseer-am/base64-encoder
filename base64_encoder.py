@@ -5,6 +5,7 @@ import base64
 # user input
 code = input("Enter string to covert to base64: ")
 
+# coverting into base64
 sample_string = code
 
 sample_string_bytes = sample_string.encode("ascii") 
