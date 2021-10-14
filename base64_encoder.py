@@ -2,6 +2,7 @@
 # importing modules
 import base64 
 
+# user input
 code = input("Enter string to covert to base64: ")
 
 sample_string = code
