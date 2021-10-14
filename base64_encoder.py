@@ -11,7 +11,7 @@ sample_string = code
 sample_string_bytes = sample_string.encode("ascii") 
 
   
-
+# coverting into bytes
 base64_bytes = base64.b64encode(sample_string_bytes) 
 
 base64_string = base64_bytes.decode("ascii") 
