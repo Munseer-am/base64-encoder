@@ -2,4 +2,4 @@
 
 simple python script to convert string into base64
 
-> Note: base64 is not a cryptographic
+> Note: base64 is not a cryptographic algorithm
